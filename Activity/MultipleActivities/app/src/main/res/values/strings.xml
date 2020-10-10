@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultipleActivites</string>
+    <string name="message_hint">Message</string>
+    <string name="send">Send</string>
+    <string name="message_title">Send a message to Another Activity</string>
+    <string name="get_message_title">Message from previous activity:</string>
+    <string name="error_message_input">The message cannot be null or empty</string>
+</resources>
