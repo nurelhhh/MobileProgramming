@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNotification</string>
+    <string name="start_service">Start Service</string>
+    <string name="service_text">Hello From DelayedMessageService!</string>
+    <string name="notification_title">You what you need rn?</string>
+    <string name="notification_text">OUR APP!</string>
+    <string name="channel_name">FirstNotification</string>
+    <string name="channel_description">FirstDescription</string>
+</resources>

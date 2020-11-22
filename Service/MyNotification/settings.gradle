@@ -1,0 +1,3 @@
+include ':appcompat-v7'
+include ':app'
+rootProject.name = "MyNotification"
